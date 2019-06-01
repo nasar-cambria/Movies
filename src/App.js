@@ -104,7 +104,7 @@ class App extends React.Component {
             </a>
           );
         },
-        width: 150
+        width: 250
       },
 
       {
