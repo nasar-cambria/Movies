@@ -7,10 +7,6 @@
 # bundler config.
 /.bundle
 
-# default SQLite database.
-/db/*.sqlite3
-/db/*.sqlite3-journal
-
 # logfiles
 /log/*
 /tmp/*
@@ -27,9 +23,6 @@ build
 /public/packs
 /public/packs-test
 coverage
-regression-report/
-screenshot_*.html
-screenshot_*.png
 
 # uploaded files in development
 /storage/*
