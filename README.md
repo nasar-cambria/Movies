@@ -18,13 +18,19 @@ Yarn start
 ## How to use the App
 
 ```
-It is very simple to use this app. It consists of a list of movies in a table and if you need to find more information about the movie simply click on the link and it will open a Modal with that movies information.
-
+It is very simple to use this app. It consists of a list of movies in a table and if you need
+to find more information about the movie simply click on the link and it will open a Modal 
+with that movie's information.
+```
+```
 There are buttons on the top of the table which can help you sort through UPCOMING MOVIES or POP MOVIES.
-
+```
+```
 You can also sort through the list by clicking the TITLE of the column inside the table.
-
-If you simply want to search a movie in the list. Go ahead and type your favorite movie name in the search field.
+```
+```
+If you want to search a movie in the list. Go ahead and type your favorite movie name
+in the search field.
 ```
 
 ## Available Scripts
