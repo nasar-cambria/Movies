@@ -1,0 +1,33 @@
+.app-container {
+  height: 100%;
+  width: 100%;
+}
+
+.main-card-body {
+  border-top: solid #f6f6f6 1px;
+  min-height: 500px;
+  width: 100%;
+  max-width: 900px;
+}
+
+.search-filter {
+    margin-top: -0.5rem !important;
+    margin-left: 27rem !important;
+}
+
+.content-table {
+  max-width: 900px
+}
+
+.close-btn {
+  float: right;
+}
+
+.overview {
+  word-wrap: break-word;
+  white-space: normal;
+  color: #4d4d4d;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  margin-top: 30px;
+}
